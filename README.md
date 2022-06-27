@@ -26,6 +26,7 @@
 
 ## 前端工具
 - 使用 Vite, Create-React-App, Gulp 進行開發
+- 對 Webpack 有基本認識
 - 使用 Dart-sass 編譯 Scss，手刻 utilities, component 樣式
 - ESLint 控制程式碼品質
 
