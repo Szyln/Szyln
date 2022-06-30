@@ -31,9 +31,9 @@
 - ESLint 控制程式碼品質
 
 ## 後端
-- 使用過 Node.js, Express.js 後端語言
-- 使用過 MongoDB, Mongoose
-- 使用過 EJS 樣板語言
+- 使用過 Node.js, Express.js 後端語言，有基礎認識
+- 使用過 MongoDB, MongoDB Atlas, Mongoose(RDBMS)，有基礎認識
+- 使用過 EJS 樣板語言，有基礎認識
 
 
 
